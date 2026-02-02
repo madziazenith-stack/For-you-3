@@ -36,7 +36,7 @@
 
     <div id="pass-container">
         <h1>🔒 Secret Date Required</h1>
-        <p style="color: #D23369;">When did our sunshine start? ☀️</p>
+        <p style="color: #D23369;">When did our story start? ☀️</p>
         <input type="text" id="passwordInput" placeholder="DDMMYYYY or Date Name">
         <br>
         <button class="btn" onclick="checkPassword()">Unlock My Heart</button>
